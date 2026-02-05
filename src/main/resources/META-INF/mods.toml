@@ -1,15 +1,20 @@
 modLoader="javafml"
 loaderVersion="[36,)"
 license="MIT"
+issueTrackerURL="https://github.com/ImVadimush/FuryCustomTags/issues"
 
 [[mods]]
 modId="furycustomtags"
 version="1.0.0"
 displayName="Fury Custom Tags"
-description="Отображает твой prefix, ник и suffix в режиме F5"
-authors="ImVadimuIII"
+updateJSONURL="https://github.com/ImVadimush/FuryCustomTags/releases"
+displayURL="https://github.com/ImVadimush/FuryCustomTags"
+credits="ImVadimush"
+authors="ImVadimush"
+description='''
+Клиентский мод для отображения твоего prefix + nickname + suffix над головой в режиме F5. Работает с LuckPerms и TAB плагинами.
+'''
 
-# Клиентский мод
 [[dependencies.furycustomtags]]
     modId="forge"
     mandatory=true
