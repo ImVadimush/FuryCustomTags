@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="furycustomtags"
+version="1.0.0"
+displayName="Fury Custom Tags"
+description="Отображает твой prefix, ник и suffix в режиме F5"
+authors="ImVadimuIII"
+
+# Клиентский мод
+[[dependencies.furycustomtags]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.furycustomtags]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="CLIENT"
