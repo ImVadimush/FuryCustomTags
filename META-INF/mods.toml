@@ -11,7 +11,9 @@ updateJSONURL="https://github.com/ImVadimush/FuryCustomTags/releases"
 displayURL="https://github.com/ImVadimush/FuryCustomTags"
 credits="ImVadimush"
 authors="ImVadimush"
-description="Client-side mod for displaying your prefix + nickname + suffix in F5 mode. Works with LuckPerms and TAB plugins."
+description='''
+Клиентский мод для отображения твоего prefix + nickname + suffix над головой в режиме F5. Работает с LuckPerms и TAB плагинами.
+'''
 
 [[dependencies.furycustomtags]]
     modId="forge"
