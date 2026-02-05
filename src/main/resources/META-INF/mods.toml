@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/ImVadimush/FuryCustomTags/issues"
 
 [[mods]]
 modId="furycustomtags"
-version="1.0.0"
+version="1.0.1"
 displayName="Fury Custom Tags"
 updateJSONURL="https://github.com/ImVadimush/FuryCustomTags/releases"
 displayURL="https://github.com/ImVadimush/FuryCustomTags"
